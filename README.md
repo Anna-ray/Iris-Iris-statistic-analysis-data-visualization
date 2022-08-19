@@ -1,0 +1,2 @@
+# Iris-Iris-statistic-analysis-data-visualization
+Dataset We will use the IRIS dataset, which contains information on 150 Iris flowers, 50 of each of the three species of Iris: Setosa, Versicolour, and Virginica. Each flower is characterized by five attributes:  sepal length in centimeters  sepal width in centimeters  petal length in centimeters  petal width in centimeters  class (Setosa, Versicolour, Virginica)   
